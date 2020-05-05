@@ -49,17 +49,17 @@ def jalan(z):
 ##### LOGO #####
 logo = """ -----------------------------•◈•
 (  __)\\ ____--------------_------------•◈•
-|__(~)    •||•THE - AAHIL -OFFICAL------•◈•
-|__\~~) •||•RANA - RAJPUT---------------•◈•
-|__(-----\  •◈•------BLACK-TIGER--------•◈•
+|__(~)    •||•UNB34T4BL3 - 4L1Y4 - H3R3 ------•◈•
+|__\~~) •||•4L1Y4 - R4JP00T---------------•◈•
+|__(-----\  •◈•------4NYM07S3-TR1CK3R--------•◈•
 |__~~~\ •◈•-----█-------⑦-------█------•◈•
 |__~~~\ •◈•-----█-------⑧-------█------•◈•
 |__~~~\ •◈•-----█-------⑥-------█------•◈•
 \033[1;91m=======================================
-\033[1;96mAuthor  \033[1;93m: \033[1;92mRana Aahil
-\033[1;96mInstagram \033[1;93m: \033[1;FlowRana
-\033[1;96mFacebook  \033[1;93m: \033[1; Aahilrna4072
-\033[1;96mGithub \033[1;93m: \033[1;92mhttps://github.com/Therana/zero
+\033[1;96mAuthor  \033[1;93m: \033[1;92mAliya Rajpoot
+\033[1;96mInstagram \033[1;93m: \033[1; sohakha627
+\033[1;96mFacebook  \033[1;93m: \033[1; https://www.facebook.com/Aliya.302
+\033[1;96mGithub \033[1;93m: \033[1;92m https://github.com/aliyatricker786/anymouse
 \033[1;91m======================================="""
 
 def tik():
@@ -70,7 +70,7 @@ def tik():
 
 back = 0
 berhasil = []
-cekpoint = []
+Sevendays = []
 oks = []
 id = []
 listgrup = []
@@ -80,15 +80,15 @@ vuln = "\033[32mVuln"
 os.system("clear")
 print "\033[1;96m ============================================================="
 print  """\033[1;91m=======================================
-\033[1;96mAuthor  \033[1;93m: \033[1;92mRana Aahil
-\033[1;96mInstagram \033[1;93m: \033[1;92mFlowRana
-\033[1;96mFacebook  \033[1;93m: \033[1;92m Aahilrana4072
-\033[1;96mGithub \033[1;93m: \033[1;92mhttps://Github.com/Therana/zero
+\033[1;96mAuthor  \033[1;93m: \033[1;92mRajpoot Aliya
+\033[1;96mInstagram \033[1;93m: \033[1;92msohakha627 
+\033[1;96mFacebook  \033[1;93m: \033[1;92m https://www.facebook.com/Aliya.302
+\033[1;96mGithub \033[1;93m: \033[1;92m https://github.com/aliyatricker786/anymouse
 \033[1;91m======================================="""
 print " \x1b[1;93m============================================================="
 
-CorrectUsername = "rana"
-CorrectPassword = "rana"
+CorrectUsername = "Aliya302"
+CorrectPassword = "Rajpootni302"
 
 loop = 'true'
 while (loop == 'true'):
