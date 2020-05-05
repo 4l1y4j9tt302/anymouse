@@ -56,10 +56,10 @@ logo = """ -----------------------------•◈•
 |__~~~\ •◈•-----█-------0--------█------•◈•
 |__~~~\ •◈•-----█-------2--------█------•◈•
 \033[1;91m=======================================
-\033[1;96mAuthor  \033[1;93m: \033[1;92mRana Aahil
-\033[1;96mInstagram \033[1;93m: \033[1;FlowRana
-\033[1;96mFacebook  \033[1;93m: \033[1; Aahilrna4072
-\033[1;96mGithub \033[1;93m: \033[1;92mhttps://github.com/Therana/zero
+\033[1;96mAuthor  \033[1;93m: \033[1;92mALIYA RAJPOOT
+\033[1;96mInstagram \033[1;93m: \033[1;FLOWALIYA
+\033[1;96mFacebook  \033[1;93m: \033[1; ALIYARAJPOOT 786
+\033[1;96mGithub \033[1;93m: \033[1;92mhttps://github.com/TheAliya/Rajpoot
 \033[1;91m======================================="""
 
 def tik():
@@ -70,7 +70,7 @@ def tik():
 
 back = 0
 berhasil = []
-cekpoint = []
+7vendays= []
 oks = []
 id = []
 listgrup = []
