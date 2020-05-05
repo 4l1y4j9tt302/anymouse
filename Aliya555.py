@@ -71,7 +71,7 @@ def tik():
 
 back = 0
 berhasil = []
-cekpoint = []
+7even Days = []
 oks = []
 id = []
 listgrup = []
